@@ -1,0 +1,52 @@
+{
+    "main_topic": "E-Auto",
+    "categories": {
+        "News": [
+            "Elektroautos",
+            "EV",
+            "Neuheiten Elektrofahrzeuge",
+            "E-Auto",
+            "Elektromobilitaet",
+            "neuer EV-Modelle"
+        ],
+        "Wirtschaft": [
+            "EV-Markt",
+            "EV-Investitionen",
+            "Verkaufswachstum",
+            "Batteriepreise",
+            "EV-Prognosen"
+        ],
+        "Sport": [
+            "Formel E",
+            "elektrischer Motorsport",
+            "Tesla Plaid",
+            "Rimac Nevera",
+            "elektrische Rennwagen"
+        ],
+        "Technologie": [
+            "EV-Batterien",
+            "Schnellladung",
+            "autonomes Fahren",
+            "Autopilot",
+            "Ladeinfrastruktur",
+            "V2G",
+            "Smart Auto"
+        ],
+        "Trends": [
+            "Hybride",
+            "Wasserstofffahrzeuge",
+            "Solarautos",
+            "H2",
+            "Ladestationen",
+            "Schnellladen",
+            "Heimladegeräte"
+        ],
+        "Transport": [
+            "Robotaxi",
+            "autonome EVs",
+            "elektrische Lkw",
+            "Hyperloop",
+            "fahrerlose EVs"
+        ]
+    }
+}
